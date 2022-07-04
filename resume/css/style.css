@@ -1,0 +1,102 @@
+body{
+    margin: 0px;
+}
+h1{
+    color: orangered;
+}
+.soft{
+    color: white;
+}
+
+.contact
+{
+    background-color:orangered ;
+    
+    padding: 10px;
+    text-align: center;
+    color: white;
+}
+h2{
+    color: orangered;
+    text-size-adjust:0;
+}
+h3{
+
+    color: orangered;
+    padding-left: 3pc;
+}
+p{
+    padding-left: 5pc;
+}
+.top
+{
+    background-color:black;
+    padding: 20px 20px 20px 20px;
+    color:white;
+
+}
+
+.contact>a
+{
+    color: white;
+    text-decoration: none;
+    padding-right:70px;
+}
+.content
+{
+    padding: 10px;
+    background-color: white;
+}
+.content>h2::before{
+    
+    background-color: orangered;
+    content:"\00a0 ";
+    padding: 5px;
+}
+.skills>span
+{
+    padding: 10px;
+    background-color: black;
+    color: white;
+    margin-right: 2px;
+    margin-left: 3pc;
+
+    border-radius: 5px;
+}
+
+.skills
+{
+    text-align: left;
+}
+.lang
+{
+    padding-left: 3pc;
+}
+.titletxt
+{
+    color: orangered;
+    font-size: 18px;
+    margin-left: 25px;
+}
+.righttxt
+{
+    float: right;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
