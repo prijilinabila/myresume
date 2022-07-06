@@ -3,9 +3,17 @@ body{
 }
 h1{
     color: orangered;
+    font-family: sans-serif;
 }
 .soft{
     color: white;
+    font-family: system-ui;
+    font-size: 20px;
+    
+}
+#content{
+    font-style: italic;
+    font-size: 17px;
 }
 
 .contact
@@ -16,9 +24,15 @@ h1{
     text-align: center;
     color: white;
 }
+.img{
+    position: relative;
+    right: 5px;
+    top: 7px;
+}
 h2{
     color: orangered;
     text-size-adjust:0;
+    font-family: sans-serif;
 }
 h3{
 
@@ -30,8 +44,8 @@ p{
 }
 .top
 {
-    background-color:black;
-    padding: 20px 20px 20px 20px;
+    background-color:rgb(22, 21, 21);
+    padding: 20px;
     color:white;
 
 }
@@ -56,7 +70,7 @@ p{
 .skills>span
 {
     padding: 10px;
-    background-color: black;
+    background-color: rgb(22, 21, 21);
     color: white;
     margin-right: 2px;
     margin-left: 3pc;
@@ -81,9 +95,17 @@ p{
 .righttxt
 {
     float: right;
+    color: orangered;
+    margin-right: 40px;
+}
+#fab{
+    margin-left: 25px;
 }
 
-
+h4{
+    padding-top: 40px;
+    margin-left: 50px;
+}
 
 
 
